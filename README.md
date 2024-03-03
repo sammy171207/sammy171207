@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sameer Randive</h1>
 <h3 align="center">A passionate Full Stack Java developer from India</h3>
- <img align="right" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3_qIjHMHYq1abHjpUZ5br6&ust=1709526859769000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCyo_uh14QDFQAAAAAdAAAAABAE>
+ <img align="right" src=/image.github.img>
 - 🌱 I’m currently learning **ReactJs,NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://sammy171207.github.io/Portfolio/](https://sammy171207.github.io/Portfolio/)
