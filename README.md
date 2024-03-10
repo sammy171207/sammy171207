@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sameer Randive</h1>
 <h3 align="center">A passionate Full Stack Java developer from India</h3>
 
-<img align="right" src="https://github.com/sammy171207/sammy171207/raw/main/assets/images/github.jpg" width="300" height="300"/>
+<img align="right" src="https://github.com/sammy171207/sammy171207/assets/96017028/be9212bf-0e1d-4e4d-8516-8b65a0001c9e" width="300" height="300"/>
+
 
 
 - 🌱 I’m currently learning **ReactJs and NodeJs**.
