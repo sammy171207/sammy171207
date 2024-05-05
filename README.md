@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJs and NodeJs**.
 
-- 👨‍💻 All of my projects are available at [https://sammy171207.github.io/Portfolio/](https://sammy171207.github.io/Portfolio/).
+- 👨‍💻 All of my projects are available at(https://sammycodes.netlify.app).
 
 - 📫 How to reach me: **sameerrandive558@gmail.com**.
 
