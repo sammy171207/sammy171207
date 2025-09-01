@@ -62,7 +62,8 @@
 
 ### 🐍 My Contributions
 ![snake gif](https://github.com/sammy171207/sammy171207/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/sammy171207/sammy171207/blob/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
-✨ *“Code, Create, and Conquer 🚀”*  
+✨ *“Code, Create, and Conquer 🚀”*
