@@ -61,9 +61,9 @@
 </p>
 
 <!-- Snake Animation Section (Circular) -->
-<img src="./dist/github-snake.svg" alt="GitHub Snake" style="border-radius:50%; width:150px;">
+<!--<img src="./dist/github-snake.svg" alt="GitHub Snake" style="border-radius:50%; width:150px;">
 <img src="./dist/github-snake-dark.svg" alt="GitHub Snake Dark" style="border-radius:50%; width:150px;">
-<img src="./dist/ocean.gif" alt="Ocean Snake" style="border-radius:50%; width:150px;">
+<img src="./dist/ocean.gif" alt="Ocean Snake" style="border-radius:50%; width:150px;">--!>
 
 ---
 
