@@ -60,13 +60,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammy171207&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
-<!-- Snake Animation Section -->
-
-![GitHub Snake](./dist/github-snake.svg)
-
-![GitHub Snake Dark](./dist/github-snake-dark.svg)
-
-![Ocean Snake](./dist/ocean.gif)
+<!-- Snake Animation Section (Circular) -->
+<img src="./dist/github-snake.svg" alt="GitHub Snake" style="border-radius:50%; width:150px;">
+<img src="./dist/github-snake-dark.svg" alt="GitHub Snake Dark" style="border-radius:50%; width:150px;">
+<img src="./dist/ocean.gif" alt="Ocean Snake" style="border-radius:50%; width:150px;">
 
 ---
 

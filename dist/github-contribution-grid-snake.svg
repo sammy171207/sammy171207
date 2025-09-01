@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="500" height="100" fill="#eee"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#333" font-size="20">Snake Animation Placeholder</text>
-</svg>
