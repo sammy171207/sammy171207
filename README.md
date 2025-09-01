@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Full Stack Developer from India</h3>
 
 <p align="center">
-  <img src="/image/github.gif alt="adad"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0D63E1&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;MERN+Stack+Developer;Next.js+%7C+Spring+Boot+%7C+System+Design;Always+Learning+%26+Building+Cool+Stuff!"/>
 </p>
 
 <img align="right" src="https://github.com/sammy171207/sammy171207/assets/96017028/33992301-b5b8-4b53-a91e-6d13fdd080b4" alt="Sameer Randive" width="300" height="300"/>
