@@ -60,6 +60,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammy171207&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
+### 🐍 My Contributions
+![snake gif](https://github.com/sammy171207/sammy171207/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ✨ *“Code, Create, and Conquer 🚀”*  
