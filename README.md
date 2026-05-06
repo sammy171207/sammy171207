@@ -55,9 +55,9 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sammy171207&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sammy171207&theme=radical" alt="GitHub Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammy171207&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+
 </p>
 
 <!-- Snake Animation Section (Circular) -->
